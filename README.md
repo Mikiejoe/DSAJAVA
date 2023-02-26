@@ -7,7 +7,7 @@
 Time complexity of stack operations: O(1) or constant time because all the operations involve only accessing or modifying the first element of the linked list
 
 #### Authors 
-Josphine Gatwiri<br/>
-Sheila Makena  
-Hilda Agesa  
-Abigael Kibiwot 
+Joseph Omondi />
+
+
+
